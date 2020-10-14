@@ -1,0 +1,2 @@
+# Python-Server-Vimeo
+There's an embedded Vimeo video on a website that shows the previous day's weather timelapse. Instead of changing the embedded file source daily, we decided to write a Python script that uses Vimeo's "replace video source file" option. The documentation here describes the process of becoming an "app developer" and using that freedom to automate a daily video source replacement.
